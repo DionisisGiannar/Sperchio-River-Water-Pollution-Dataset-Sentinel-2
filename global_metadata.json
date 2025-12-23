@@ -1,0 +1,92 @@
+{
+  "dataset_name": "Sperchios Gulf Water Pollution Dataset (Sentinel-2)",
+  "description": "A dataset for monitoring water pollution in the Sperchios Gulf using Sentinel-2 satellite imagery. It includes preprocessed time-series metrics for multiple tiles covering the area of interest from 2017 to 2025.",
+  "version": "1.0.0",
+  "source": "Sentinel-2",
+  "aoi": [22.51901286489857, 38.86448942189875, 22.562631861867928, 38.8758260508686],
+  "created_at": "2025-12-23T13:36:51Z",
+  "updated_at": "2025-12-23T13:36:51Z",
+  "structure": {
+    "csv": "csv",
+    "images": "images",
+    "raw_s2_collections": "raw_s2_collections",
+    "tiles_info": "tiles_info.json"
+  },
+  "n_tiles": 10,
+  "tiles" : ["tile_00", "tile_01", "tile_02", "tile_03", "tile_04", "tile_05", "tile_06", "tile_07", "tile_08", "tile_09"],
+  "file_locations": {
+    "per_tile": { 
+      "tile_00": {
+        "csv_dir": "tile_00/csv",
+        "preprocessed_csv": "tile_00/csv/1D_mean_metrics_interpolated_time_based.csv",
+        "images_dir": "tile_00/images",
+        "raw_s2_collections_dir": "tile_00/raw_s2_collections",
+        "tiles_info": "tile_00/tiles_info.json"
+      },
+      "tile_01": {
+        "csv_dir": "tile_01/csv",
+        "preprocessed_csv": "tile_01/csv/1D_mean_metrics_interpolated_time_based.csv",
+        "images_dir": "tile_01/images",
+        "raw_s2_collections_dir": "tile_01/raw_s2_collections",
+        "tiles_info": "tile_01/tiles_info.json"
+      },
+      "tile_02": {
+        "csv_dir": "tile_02/csv",
+        "preprocessed_csv": "tile_02/csv/1D_mean_metrics_interpolated_time_based.csv",
+        "images_dir": "tile_02/images",
+        "raw_s2_collections_dir": "tile_02/raw_s2_collections",
+        "tiles_info": "tile_02/tiles_info.json"
+      },
+      "tile_03": {
+        "csv_dir": "tile_03/csv",
+        "preprocessed_csv": "tile_03/csv/1D_mean_metrics_interpolated_time_based.csv",
+        "images_dir": "tile_03/images",
+        "raw_s2_collections_dir": "tile_03/raw_s2_collections",
+        "tiles_info": "tile_03/tiles_info.json"
+      },
+      "tile_04": {
+        "csv_dir": "tile_04/csv",
+        "preprocessed_csv": "tile_04/csv/1D_mean_metrics_interpolated_time_based.csv",
+        "images_dir": "tile_04/images",
+        "raw_s2_collections_dir": "tile_04/raw_s2_collections",
+        "tiles_info": "tile_04/tiles_info.json"
+      },
+      "tile_05": {
+        "csv_dir": "tile_05/csv",
+        "preprocessed_csv": "tile_05/csv/1D_mean_metrics_interpolated_time_based.csv",
+        "images_dir": "tile_05/images",
+        "raw_s2_collections_dir": "tile_05/raw_s2_collections",
+        "tiles_info": "tile_05/tiles_info.json"
+      },
+      "tile_06": {
+        "csv_dir": "tile_06/csv",
+        "preprocessed_csv": "tile_06/csv/1D_mean_metrics_interpolated_time_based.csv",
+        "images_dir": "tile_06/images",
+        "raw_s2_collections_dir": "tile_06/raw_s2_collections",
+        "tiles_info": "tile_06/tiles_info.json"
+      },
+      "tile_07": {
+        "csv_dir": "tile_07/csv",
+        "preprocessed_csv": "tile_07/csv/1D_mean_metrics_interpolated_time_based.csv",
+        "images_dir": "tile_07/images",
+        "raw_s2_collections_dir": "tile_07/raw_s2_collections",
+        "tiles_info": "tile_07/tiles_info.json"
+      },
+      "tile_08": {
+        "csv_dir": "tile_08/csv",
+        "preprocessed_csv": "tile_08/csv/1D_mean_metrics_interpolated_time_based.csv",
+        "images_dir": "tile_08/images",
+        "raw_s2_collections_dir": "tile_08/raw_s2_collections",
+        "tiles_info": "tile_08/tiles_info.json"
+      },
+      "tile_09": {
+        "csv_dir": "tile_09/csv",
+        "preprocessed_csv": "tile_09/csv/1D_mean_metrics_interpolated_time_based.csv",
+        "images_dir": "tile_09/images",
+        "raw_s2_collections_dir": "tile_09/raw_s2_collections",
+        "tiles_info": "tile_09/tiles_info.json"
+      }
+    }
+  }
+
+}

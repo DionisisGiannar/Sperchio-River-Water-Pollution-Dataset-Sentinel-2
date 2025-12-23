@@ -1,0 +1,25 @@
+{
+  "tile_name": "tile_07",
+  "slug": "tile_07",
+  "bbox": [
+    22.5493113367238,
+    38.869760236664305,
+    22.553999055253172,
+    38.87342478979576
+  ],
+  "years": [
+    2017,
+    2025
+  ],
+  "saved_at": "2025-12-08T17:25:07Z",
+  "paths": {
+    "csv_dir": "csv",
+    "images_dir": "images",
+    "raw_s2_collections_dir": "raw_s2_collections",
+    "preprocessed_csv": "csv/1D_mean_metrics_interpolated_time_based.csv.preprocessed",
+    "max_metrics_csv": "csv/1D_mean_metrics_interpolated_time_based.csv.max_metrics",
+    "min_metrics_csv": "csv/1D_mean_metrics_interpolated_time_based.csv.min_metrics",
+    "mean_metrics_csv": "csv/1D_mean_metrics_interpolated_time_based.csv.mean_metrics",
+    "stDev_metrics_csv": "csv/1D_mean_metrics_interpolated_time_based.csv.std_dev_metrics"
+  }
+}
