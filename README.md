@@ -64,11 +64,13 @@ These files provide consistent temporal sampling and reduced noise, suitable for
 
 ## License
 
-[XXXXXX]
+This dataset is licensed under the **Creative Commons Attribution 4.0 International (CC-BY 4.0)** license.
 
-## Citation
+You are free to:
+- Share — copy and redistribute the material in any medium or format  
+- Adapt — remix, transform, and build upon the material  
 
-If you use this dataset, please cite:
+for any purpose, even commercially, **provided that appropriate credit is given**.
 
-XXXXXX
+Full license text: https://creativecommons.org/licenses/by/4.0/
 
