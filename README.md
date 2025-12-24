@@ -64,7 +64,7 @@ These files provide consistent temporal sampling and reduced noise, suitable for
 
 ## License
 
-[Specify license here, e.g., CC-BY-4.0]
+[XXXXXX]
 
 ## Citation
 
