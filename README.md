@@ -9,8 +9,16 @@ The Sperchios Gulf Water Pollution Dataset provides spatially and temporally res
 ## Area of Interest
 
 The dataset covers the Sperchios River Gulf, Greece, including the river delta and adjacent coastal waters. The area is subdivided into ten spatial tiles (tile_00 to tile_09) to enable localized analysis of water-quality dynamics.
-Bounding Box:
-- [22.51901286489857, 38.86448942189875, 22.562631861867928, 38.8758260508686]
+
+Bounding box:
+
+- `[22.51901286489857, 38.86448942189875, 22.562631861867928, 38.8758260508686]`
+
+## Temporal Coverage
+
+- Raw collection folders span `2016-01-01` to `2026-03-10`
+- `final_merged_data.csv` spans `2016-04-19` to `2026-03-03`
+- `1D_mean_metrics_interpolated_time_based.csv` spans `05-03-2016` to `03-03-2026`
 
 ## Data Products
 
@@ -35,7 +43,7 @@ Raw Sentinel-2 observations were preprocessed to:
 - Aggregate per-tile statistics
 - Interpolate missing dates to achieve a daily temporal resolution
 
-The files `*_interpolated_time_based.csv.preprocessed` contain the final processed time-series recommended for machine learning applications.
+The files `final_merged_data.csv.preprocessed` contain the final processed time-series recommended for machine learning applications.
 
 ## Structure
 
@@ -52,25 +60,21 @@ The files `*_interpolated_time_based.csv.preprocessed` contain the final process
 
 ## Global Metadata
 
-- global_metadata.json provides dataset-wide metadata
+- metadata.json provides dataset-wide metadata
 
 ## Recommended Usage
 
 For machine learning and time-series modeling, we recommend using:
 
-- `1D_mean_metrics_interpolated_time_based.csv.preprocessed`
+- `final_merged_data.csv.preprocessed`
 
-These files provide consistent temporal sampling and reduced noise, suitable for forecasting and anomaly detection tasks.
+Thισ file provide consistent temporal sampling and reduced noise, suitable for forecasting and anomaly detection tasks.
+
+## Citation
+[Wating for official publication of the paper]
 
 ## License
 
 This dataset is licensed under the **Creative Commons Attribution 4.0 International (CC-BY 4.0)** license.
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format  
-- Adapt — remix, transform, and build upon the material  
-
-for any purpose, even commercially, **provided that appropriate credit is given**.
-
 Full license text: https://creativecommons.org/licenses/by/4.0/
-

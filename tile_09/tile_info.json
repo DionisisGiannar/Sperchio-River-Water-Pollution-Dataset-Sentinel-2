@@ -1,0 +1,49 @@
+{
+  "tile_name": "tile_09",
+  "slug": "tile_09",
+  "bbox": [
+    22.557943564583976,
+    38.8721611701206,
+    22.562631861867928,
+    38.8758260508686
+  ],
+  "years": [
+    2016,
+    2026
+  ],
+  "temporal_coverage": {
+    "raw_collections": {
+      "start": "2016-01-01",
+      "end": "2026-03-10",
+      "files": 11
+    },
+    "merged_csv": {
+      "start": "2016-04-20",
+      "end": "2026-03-03"
+    },
+    "interpolated_daily_csv": {
+      "start": "05-03-2016",
+      "end": "03-03-2026",
+      "rows": 3651
+    }
+  },
+  "saved_at": "2026-03-10T08:40:29Z",
+  "asset_counts": {
+    "csv_files": 7,
+    "tile_images": 5,
+    "interpolation_plots": 8
+  },
+  "paths": {
+    "csv_dir": "csv",
+    "images_dir": "images",
+    "plots_dir": "plots",
+    "raw_s2_collections_dir": "raw_s2_collections",
+    "final_merged_data_csv": "csv/final_merged_data.csv",
+    "interpolated_csv": "csv/1D_mean_metrics_interpolated_time_based.csv",
+    "preprocessed_csv": "csv/final_merged_data.csv.preprocessed",
+    "max_metrics_csv": "csv/max_metrics.csv",
+    "min_metrics_csv": "csv/min_metrics.csv",
+    "mean_metrics_csv": "csv/mean_metrics.csv",
+    "stDev_metrics_csv": "csv/stDev_metrics.csv"
+  }
+}
