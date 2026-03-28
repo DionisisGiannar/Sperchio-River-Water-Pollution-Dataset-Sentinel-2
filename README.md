@@ -69,7 +69,7 @@ For machine learning and time-series modeling, we recommend using:
 
 - `final_merged_data.csv.preprocessed`
 
-Thισ file provide consistent temporal sampling and reduced noise, suitable for forecasting and anomaly detection tasks.
+This file provide consistent temporal sampling and reduced noise, suitable for forecasting and anomaly detection tasks.
 
 ## Citation
 [Wating for official publication of the paper]
