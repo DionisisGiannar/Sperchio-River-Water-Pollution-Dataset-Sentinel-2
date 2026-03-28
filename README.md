@@ -1,4 +1,5 @@
 # Sperchios Gulf Water Pollution Dataset (Sentinel-2)
+<img width="795" height="400" alt="dataset-cover" src="https://github.com/user-attachments/assets/c6e55610-e911-4dcc-a4b8-1c245afffabb" />
 
 This dataset contains per-tile water quality products derived from Sentinel-2 imagery for the Sperchios Gulf. Tiles are numbered from tile_00 through tile_09 and include CSV metrics, per-date JSON collections, and PNG image layers. All tiles correspond to spatial subdivisions of the Sperchios River Gulf.
 
