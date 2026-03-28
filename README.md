@@ -78,3 +78,6 @@ Thισ file provide consistent temporal sampling and reduced noise, suitable for
 This dataset is licensed under the **Creative Commons Attribution 4.0 International (CC-BY 4.0)** license.
 
 Full license text: https://creativecommons.org/licenses/by/4.0/
+
+## Acknowledgement
+This work was funded under the TERRA project, which has received funding from the European Union’s Horizon Europe research and innovation program under grant agreement No. 101189962. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Health and Digital Executive Agency (HADEA). Neither the European Union nor the granting authority can be held responsible for them.
