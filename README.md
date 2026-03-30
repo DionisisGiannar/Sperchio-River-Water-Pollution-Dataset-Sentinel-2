@@ -1,15 +1,15 @@
-# Sperchios Gulf Water Pollution Dataset (Sentinel-2)
+# Sperchios River Water Pollution Dataset (Sentinel-2)
 <img width="795" height="400" alt="dataset-cover" src="https://github.com/user-attachments/assets/c6e55610-e911-4dcc-a4b8-1c245afffabb" />
 
-This dataset contains per-tile water quality products derived from Sentinel-2 imagery for the Sperchios Gulf. Tiles are numbered from tile_00 through tile_09 and include CSV metrics, per-date JSON collections, and PNG image layers. All tiles correspond to spatial subdivisions of the Sperchios River Gulf.
+This dataset contains per-tile water quality products derived from Sentinel-2 imagery for the Sperchios River. Tiles are numbered from tile_00 through tile_09 and include CSV metrics, per-date JSON collections, and PNG image layers. All tiles correspond to spatial subdivisions of the Sperchios River .
 
 ## Overview
 
-The Sperchios Gulf Water Pollution Dataset provides spatially and temporally resolved water-quality indicators derived from Sentinel-2 imagery. The dataset is designed to support river-to-coastal water pollution monitoring, spatio-temporal analysis, and machine-learning-based forecasting of environmental parameters.
+The Sperchios River Water Pollution Dataset provides spatially and temporally resolved water-quality indicators derived from Sentinel-2 imagery. The dataset is designed to support river-to-coastal water pollution monitoring, spatio-temporal analysis, and machine-learning-based forecasting of environmental parameters.
 
 ## Area of Interest
 
-The dataset covers the Sperchios River Gulf, Greece, including the river delta and adjacent coastal waters. The area is subdivided into ten spatial tiles (tile_00 to tile_09) to enable localized analysis of water-quality dynamics.
+The dataset covers the Sperchios River, Greece, including the river delta and adjacent coastal waters. The area is subdivided into ten spatial tiles (tile_00 to tile_09) to enable localized analysis of water-quality dynamics.
 
 Bounding box:
 
