@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19290711.svg)](https://doi.org/10.5281/zenodo.19290711)
+
 # Sperchios River Water Pollution Dataset (Sentinel-2)
 <img width="795" height="400" alt="dataset-cover" src="https://github.com/user-attachments/assets/c6e55610-e911-4dcc-a4b8-1c245afffabb" />
 
@@ -72,7 +74,9 @@ For machine learning and time-series modeling, we recommend using:
 This file provide consistent temporal sampling and reduced noise, suitable for forecasting and anomaly detection tasks.
 
 ## Citation
-[Wating for official publication of the paper]
+
+Giannaropoulos, D., Petridis, M., Oikonomou, P., & Kolomvatsos, K. (2026). Sperchios River Water Pollution Copernicus Satellite Dataset (v2.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19290711
+
 
 ## License
 
